@@ -42,3 +42,5 @@ red,15mm,seamaster,Omega,John,15-00-9
 ```sh
 python3 conv.py config.csv data.csv >out.csv
 ```
+
+* 各CSVは全て UTF-8 (LF) である前提
